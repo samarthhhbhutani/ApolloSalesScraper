@@ -1,0 +1,21 @@
+{"batch":"b17","source":"Clay search-contacts","companies":[
+["estron-group.com","Estron Group","Netherlands","Rotterdam",44,"All-round LSP in Rotterdam port: transport, warehousing, ocean & air freight, forwarding, barge; own offices",1,1,2,1,"qualified",""],
+["vertraco.nl","Vertraco Shipping B.V.","Netherlands","Rotterdam",19,"General management of Europe Caribbean Line",0,1,0,1,"excluded","Shipping line management"],
+["gc-logistics.com","G & C De Bot Logistics B.V.","Netherlands","Roosendaal",10,"4th-generation family business; air freight specialist plus road, sea and intermodal",1,1,1,1,"qualified",""],
+["smsglobal-group.com","SMS Global Forwarding Netherlands (SMS Global Logistics B.V.)","Netherlands","Hoofddorp",13,"Europe-Asia air, ocean, rail, road forwarding and customs; part of SMS Global Group",1,1,2,0,"qualified","Part of SMS Global Group (mid-size)"],
+["yourcargocontact.com","Your Cargo Contact","Netherlands","Aalsmeer",47,"E-commerce freight forwarder; part of Lenton Group",1,1,2,0,"excluded","Part of Lenton Group (global cross-border group) - not independent"],
+["e-llis.com","e-llis Supply Chain Solutions","Netherlands","Maastricht-Airport",null,"Non-asset 4PL / lead logistics provider for multinationals",0,0,1,1,"excluded","4PL / supply-chain consultancy rather than an RFQ-driven forwarder"],
+["gfm.world","GFM - Global Freight Management","Netherlands","Swalmen",null,"Air & ocean freight forwarder (Schiphol, Goes), branches DE & UK; worldwide network",1,1,2,1,"qualified",""],
+["cargoregency.com","Cargo Regency B.V.","Netherlands","Schiphol",9,"Air, ocean and road forwarding; dangerous goods; projects",1,1,1,1,"qualified",""],
+["logitrex.nl","Logitrex Cargo Solutions","Netherlands","Borne",4,"Road, heavy haulage, sea & airfreight, intermodal",1,1,1,1,"qualified",""]],
+"contacts":[
+["Barry Brown","UK General Manager","https://www.linkedin.com/in/barry-brown-2833624b/","estron-group.com","Greater Ipswich Area, UK"],
+["Gijs De Bot","Directeur & Eigenaar (Director & Owner)","https://www.linkedin.com/in/gclogistics/","gc-logistics.com","Roosendaal, NL"],
+["Cindy De Bot","Eigenaar (Owner)","https://www.linkedin.com/in/cindy-de-bot-29b56822b/","gc-logistics.com","Roosendaal, NL"],
+["Ton ten Hove","Co Founder and Director","https://www.linkedin.com/in/ton-ten-hove-41a7ba82/","smsglobal-group.com","Veenendaal, NL"],
+["Jason Lee","General Manager","https://www.linkedin.com/in/jason-lee-034821166/","smsglobal-group.com","Hoofddorp, NL"],
+["Fabian van Donk","Managing Director","https://www.linkedin.com/in/fabianvandonk/","gfm.world","Amsterdam Area, NL"],
+["Koos Spronk","Algemeen directeur (Managing Director)","https://www.linkedin.com/in/koos-spronk-60419918/","gfm.world","Roermond, NL"],
+["Dinu George","Founder / CEO","https://www.linkedin.com/in/dinu-george-✝️-✝️-🇳🇱🇳🇱-75853518/","cargoregency.com","Netherlands"],
+["Doron H.","COO | Chief Operating Officer","https://www.linkedin.com/in/doronhorodniceanu/","cargoregency.com","Bloemendaal, NL"],
+["Martinus Elbertsen","Owner","https://www.linkedin.com/in/martinus-elbertsen-023b3923/","logitrex.nl","Borne, NL"]]}

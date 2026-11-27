@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"8-freight.net":{"id":"66851c59af3330040ffd80a1","employees":22,"city":"Mörfelden-Walldorf","keywords":"air/sea/road/rail; customs; project cargo; NAICS 488510"},
+"aaslogistics.com":{"id":"556d89fb73696411e3524301","employees":8,"city":"Rotterdam","founded_year":2010,"keywords":"ocean, air, short-sea, rail, road; e-commerce fulfilment","air":1,"ocean":1},
+"afstransport.nl":{"id":"66025eab0ea0b70007a1f003","employees":13,"city":"Pernis (Rotterdam)","founded_year":1980,"keywords":"sea freight; air freight; project cargo; customs","air":1,"ocean":1},
+"byrlogistics.com":{"id":"6a664aa94e428a00018cf679","employees":3,"city":"Hoofddorp","founded_year":2026,"keywords":"air/sea/road; DG; AOG; customs"},
+"cargoregency.com":{"id":"5c1d8bc6a3ae61039a86ac9d","employees":9,"city":"Schiphol","founded_year":2013,"keywords":"digital freight forwarder; air/ocean/road/rail; DG; AOG"},
+"dfgl.nl":{"id":"659f933b753d9c00013f62ae","employees":8,"city":"Hendrik-Ido-Ambacht","founded_year":1986,"keywords":"sea & air freight; intermodal; customs","air":1},
+"essexfreight.nl":{"id":"5592296f7369644859d54300","employees":13,"city":"Ridderkerk","founded_year":2007,"keywords":"sea & air freight; Caribbean; customs"},
+"estron-group.com":{"id":"55695afd73696425cb430f00","employees":43,"city":"Rotterdam","founded_year":1967,"keywords":"road, barge, warehousing, ocean & air freight","status":"excluded","independent":0,"note":"Apollo: acquired by DFDS (Jul 2023); ~130 employees and 300 trailers - not independent / exceeds size (excluded after enrichment)"},
+"freightned.com":{"id":"5f226cc4ed63c400e689b4aa","employees":34,"city":"Ridderkerk","founded_year":2007,"keywords":"road/air/ocean; online quotation system; customs"},
+"friendship-int.nl":{"id":"688af36e66546d0001ed1633","employees":5,"city":"Urmond","founded_year":1993,"keywords":"IATA cargo agent; air/ocean/road; cross trade"}},
+"credit_log":[{"ts":"2026-11-27T05:30","action":"organizations_bulk_enrich batch 09 (10 domains)","credits_used":10,"balance_after":109,"note":"10/10 matched"}]}

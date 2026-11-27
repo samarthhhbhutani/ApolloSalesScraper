@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"logitrex.nl":{"id":"556dd33a736964124b48ae01","employees":5,"city":"Borne","founded_year":2013,"keywords":"road/intermodal-led; sea & air freight; customs","note":"Apollo: road-transport-led forwarder (sea/air secondary)"},
+"loyalcargoservices.com":{"id":"5e55bfa78a71b100016ed0dd","employees":9,"city":"Hoofddorp","founded_year":2018,"keywords":"air & sea freight; cross trade; LCL/FCL; AOG; partner network","air":1,"ocean":1},
+"mgint.de":{"id":"61eb907b006a8e0001c7cda6","employees":28,"city":"Siegen","founded_year":1891,"keywords":"family-run; ocean & air freight; project logistics; Middle East","air":1,"ocean":1},
+"oceanroads.de":{"id":"6704c8fdfb00b50001b83715","employees":7,"city":"Hamburg","founded_year":2008,"keywords":"ocean & air freight; customs; Hamburg & Frankfurt","air":1,"ocean":1},
+"ols.de":{"id":"60b2178f8314f20001791b29","employees":20,"city":"Mönchengladbach","founded_year":1997,"keywords":"sea & air freight; project & steel logistics","status":"excluded","independent":0,"note":"Excluded after Apollo enrichment: shares acquired by Fr. Meyer's Sohn (FMS) in Sept 2025 - no longer independent"},
+"overseas-freighters.com":{"id":"63c531434fd6a200013ac663","employees":7,"city":"Neu Wulmstorf","founded_year":1980,"keywords":"independent neutral NVOCC; Africa specialist; LCL/FCL","ocean":1},
+"patto-logistics.com":{"id":"67310e4e93cdbb0001e34c18","employees":12,"city":"Mörfelden-Walldorf","founded_year":2019,"keywords":"air & sea freight; DG; aerospace","air":1,"ocean":1},
+"quick-cargo-service.ch":{"id":"56e6070af3e5bb6b7a00165d","employees":420,"city":"Mörfelden-Walldorf","founded_year":1974,"keywords":"privately owned IATA forwarder; 14 European countries","status":"excluded","note":"Excluded after Apollo enrichment: QCS group has ~420 employees across 14 countries - above 100-employee ICP ceiling"},
+"rasf.nl":{"id":"5d322e7680f93eca692622d8","employees":12,"city":"Rotterdam","founded_year":1999,"keywords":"independent; air & sea freight; consolidation; ship spares","air":1,"ocean":1,"independent":1},
+"ronnick-logistics.com":{"id":"6378f4cf2eed0f0001802e1b","employees":14,"city":"Schiphol-Rijk","founded_year":2020,"keywords":"air & sea freight; aerospace/AOG; semicon; special cargo","air":1,"ocean":1}},
+"credit_log":[{"ts":"2026-11-27T05:46","action":"organizations_bulk_enrich batch 11 (10 domains)","credits_used":10,"balance_after":89,"note":"10/10 matched; OLS (FMS-acquired) and QCS (420 staff) excluded"}]}

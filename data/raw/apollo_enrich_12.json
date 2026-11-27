@@ -1,0 +1,11 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"s-h-logistics.com":{"id":"69e301467bc8ba00017f9897","employees":7,"city":"Wallenhorst","founded_year":2025,"keywords":"express & road logistics; air & sea freight; customs","note":"Apollo: founded 2025, road/express-led - early-stage"},
+"sealogic.nl":{"id":"5fc98d075f53010001f28f68","employees":14,"city":"Schiedam","founded_year":1997,"keywords":"ocean & air freight; marine/cruise on-board delivery; AEO","air":1,"ocean":1},
+"smsglobal-group.com":{"id":"5e55e338f43c6c0001ef0e3d","employees":13,"city":"Hoofddorp","founded_year":2017,"keywords":"air/ocean/rail freight; Europe-Asia; semiconductor","air":1,"ocean":1,"note":"Apollo: NL entity of SMS Global Group (owner-led Europe-Asia group)"},
+"spedimar.ch":{"id":"556dd74a7369641217b4a901","employees":19,"city":"Chiasso","founded_year":1993,"keywords":"international forwarding; customs; FTL/LTL; bonded warehouse","note":"Apollo: road/customs-led profile; air/ocean not evidenced"},
+"teconja.de":{"id":"63701e8ded397f00016e4ed6","employees":28,"city":"Hamburg","founded_year":1994,"keywords":"sea freight FCL/LCL; air freight; global agent network; flexitanks","air":1,"ocean":1},
+"transheroes.com":{"id":"5f458dff26cede0001ba07d6","employees":52,"city":"Hengelo","founded_year":1986,"keywords":"TTS TransAir & TransOcean units; road/rail; customs","air":1,"ocean":1},
+"transmaritim.com":{"id":"56e72c69f3e5bb791a00413b","employees":21,"city":"Filderstadt","founded_year":1987,"keywords":"sea & air freight; project cargo; international agency network","air":1,"ocean":1},
+"valexandertransport.de":{"id":"5e568cbb2174ca00015706d7","employees":14,"city":"Bremen","founded_year":2008,"keywords":"family-run; air & sea freight; project logistics; NVOCC; AEO","air":1,"ocean":1},
+"viselogistics.eu":{"id":"5e55ba475aff5f000170893a","employees":7,"city":"Hoofddorp","keywords":"air & ocean freight; road; warehousing near Schiphol","air":1,"ocean":1}},
+"credit_log":[{"ts":"2026-11-27T05:52","action":"organizations_bulk_enrich batch 12 (9 domains)","credits_used":9,"balance_after":80,"note":"9/9 matched"}]}

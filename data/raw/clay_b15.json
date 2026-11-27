@@ -1,0 +1,21 @@
+{"batch":"b15","source":"Clay search-contacts","companies":[
+["fce-transport.com","FCE Transport B.V.","Netherlands","Harderwijk",10,"Daily road transport to Eastern Europe, crossdocks",0,0,0,1,"excluded","Pure road transport"],
+["podlogistics.eu","POD Logistics & Warehousing B.V.","Netherlands","Botlek",45,"Port-based warehousing one-stop shop",-1,-1,0,1,"excluded","Warehousing-led business; no clear air/ocean forwarding evidence"],
+["transheroes.com","TransHeroes","Netherlands","Hengelo",52,"Allround LSP with business units: road, air freight, sea freight, rail, customs, courier",1,1,1,1,"qualified",""],
+["roelottenheim.nl","Roel Ottenheim Logistics","Netherlands","Roermond",5,"Road, rail/intermodal, short sea, freight management",0,0,0,1,"excluded","Road/intermodal focus; no air or deep-sea forwarding"],
+["afstransport.nl","AFS Freight Solutions","Netherlands","Pernis (Rotterdam)",13,"Turn-key freight forwarding solutions since 1980 (Rotterdam & Amsterdam)",-1,-1,1,1,"qualified",""],
+["viselogistics.eu","VISE Logistics B.V.","Netherlands","Hoofddorp",7,"Air import/export, ocean import/export, customs, projects, road",1,1,1,1,"qualified",""],
+["essexfreight.nl","Essex Freight Holland","Netherlands","Ridderkerk",13,"Caribbean specialist: LCL/FCL, China import/export, airfreight, customs; own Curaçao office",1,1,2,1,"qualified",""],
+["friendship-int.nl","Friendship International bv","Netherlands","Urmond",5,"Neutral IATA cargo agent: air, sea, road; worldwide partner network",1,1,2,1,"qualified",""],
+["sealogic.nl","Sealogic BV","Netherlands","Schiedam",14,"Privately owned: air & ocean transport, customs, bonded warehouse, OBC",1,1,1,1,"qualified",""],
+["bsishipping.com","B.S.I. Shipping International B.V.","Netherlands","Rotterdam",1,"One-person shipping company",-1,-1,0,1,"excluded","Below 3-employee minimum"]],
+"contacts":[
+["Edwin Asveld","Ondernemer & CEO","https://www.linkedin.com/in/edwinasveld/","transheroes.com","Hengelo, NL"],
+["Jan Dekker","Chief Operating Officer","https://www.linkedin.com/in/dekkerjan/","transheroes.com","Borne, NL"],
+["Arne Doorewaard","Algemeen directeur (Managing Director)","https://www.linkedin.com/in/arne-doorewaard-7a41a119/","afstransport.nl","Randstad, NL"],
+["Marcel Heezen","Director","https://www.linkedin.com/in/marcel-heezen-23151315/","afstransport.nl","Randstad, NL"],
+["Sebastiaan Ruiten","CEO | VISE Logistics B.V.","https://www.linkedin.com/in/sebastiaan-ruiten-b8b42072/","viselogistics.eu","Hoofddorp, NL"],
+["Victoria Oliver","COO | CFO","https://www.linkedin.com/in/victoria-oliver-740979151/","viselogistics.eu","Haarlem, NL"],
+["Ernst Overbosch","Directeur (Director)","https://www.linkedin.com/in/ernst-overbosch-4453748b/","essexfreight.nl","Randstad, NL"],
+["Marcel Kuypers","Owner / Managing director","https://www.linkedin.com/in/marcel-kuypers-665ab0a/","friendship-int.nl","Nuth, NL"],
+["Ruud Roovers","Owner and director","https://www.linkedin.com/in/ruud-roovers-2a303319/","sealogic.nl","Randstad, NL"]]}

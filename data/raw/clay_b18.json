@@ -1,0 +1,14 @@
+{"batch":"b18","source":"Clay search-contacts","companies":[
+["ronnick-logistics.com","Ronnick Logistics B.V.","Netherlands","Schiphol-Rijk",14,"Airfreight, seafreight, road; aerospace, marine, semicon, automotive specialist",1,1,1,1,"qualified",""],
+["freightned.com","FreightNed","Netherlands","Ridderkerk",34,"Forwarder with fixed contacts and online quotation system; distribution, customs, air & sea freight",1,1,1,1,"qualified",""],
+["gd-its.com","GD-iTS Group","Netherlands","Zaltbommel",null,"Group incl. trucking, >100,000 m2 warehousing, ocean & air forwarding (LinkedIn 51-200)",1,1,1,1,"excluded","Asset-heavy group (trucking + 100k m2 warehousing) likely >100 employees"],
+["quick-cargo-service.nl","QCS Quick Cargo Service BV Netherlands","Netherlands","Schiphol-Rijk",11,"International air, sea and road freight (Amsterdam & Rotterdam)",1,1,1,1,"qualified","No decision-maker returned by people search"],
+["iasaviation.com","Inter Aviation Services (IAS)","Netherlands","Schiphol",39,"Airline cargo GSSA and charter",1,0,0,1,"excluded","Airline GSSA (represents airlines), not a forwarder"],
+["speed.nl","Speed BV","Netherlands","Schiphol-Rijk",null,"Airline cargo sales/handling agent",1,0,0,1,"excluded","Airline cargo GSA/handling, not a forwarder"],
+["forvisionfritom.nl","Forvision | Fritom","Netherlands","Zwolle",7,"Sea freight unit of Fritom group (LinkedIn 501-1,000)",0,1,1,0,"excluded","Part of Fritom group; group size band 501-1,000"],
+["olafhussein.com","OLAF","Netherlands","Amsterdam",32,"Fashion brand",0,0,0,1,"excluded","Not a logistics company (fashion brand - keyword mismatch)"]],
+"contacts":[
+["Nick Rijcks","Co-founder & Owner Ronnick Logistics B.V.","https://www.linkedin.com/in/nick-rijcks-311a00153/","ronnick-logistics.com","Hoofddorp, NL"],
+["Ron Boer","Co-Founder","https://www.linkedin.com/in/ron-boer-a7850624/","ronnick-logistics.com","IJmuiden, NL"],
+["Ronald de Rijke","Managing Director / Partner","https://www.linkedin.com/in/ronaldderijke/","freightned.com","Ridderkerk, NL"],
+["Ton Rehorst","Co-owner","https://www.linkedin.com/in/tonrehorst/","freightned.com","Randstad, NL"]]}

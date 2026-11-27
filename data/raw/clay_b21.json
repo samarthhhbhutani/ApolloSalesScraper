@@ -1,0 +1,15 @@
+{"batch":"b21","source":"Clay search-contacts","companies":[
+["interlogserv.com","ILS GROUP","Switzerland","Baar",46,"International logistics group: forwarding, transport, warehousing, customs; operations in PT/Angola",-1,-1,2,1,"qualified",""],
+["starlogistique.ch","Star Logistique","Switzerland","Geneva",25,"Transporter/logistician (valuables, DG, express, cold chain, e-logistics); part of RDV SA group",0,0,1,0,"excluded","Primarily transport/e-logistics; part of RDV SA group"],
+["quick-cargo-service.ch","QCS - Quick Cargo Service AG","Switzerland","Allschwil",32,"Road, air, sea and rail forwarding (Basel, ZRH, GVA)",1,1,1,1,"qualified",""],
+["spedimar.ch","Spedimar Sagl","Switzerland","Chiasso",19,"Forwarder at the Swiss-Italian border since 1993",-1,-1,1,1,"qualified",""],
+["airnautic.ch","Airnautic AG","Switzerland","Basel",13,"Airline cargo GSA selling via forwarders",1,0,0,1,"excluded","Airline GSA, not a forwarder"],
+["csl.ag","Cargo Service Line AG","Switzerland","Basel",6,"Neutral transport & rail, logistics & customs, consulting",0,0,0,1,"excluded","Rail/customs services; no air or ocean forwarding evidence"],
+["telesped.ch","Telesped AG","Switzerland","Glattbrugg",9,"International logistics provider & freight forwarder, worldwide network",-1,-1,2,1,"qualified","No decision-maker returned by people search"],
+["its-transport.ch","ITS International Transport & Shipping Ltd.","Switzerland","Reinach",12,"International transport & shipping/forwarding",-1,1,1,1,"qualified","No decision-maker returned by people search"],
+["b-sped.com","B-Sped Logistics","Switzerland","Boncourt",12,"International road, air & sea transport, customs clearance, storage CH/FR/NL",1,1,1,1,"qualified","No decision-maker returned by people search"],
+["verongrauer.com","Veron Grauer SA","Switzerland","Geneva",71,"High-value secure transport; part of Temis Luxury group",1,0,1,0,"excluded","Part of Temis Luxury group - not independent"]],
+"contacts":[
+["Nuno Cabral","Chief Operating Officer","https://www.linkedin.com/in/nuno-cabral-17a30032/","interlogserv.com","Lisbon, PT"],
+["Reto Gross","Vice Director","https://www.linkedin.com/in/reto-gross-a4a21b8b/","quick-cargo-service.ch","Zurich, CH"],
+["Giovanni Pezzotti","Chief Operations Officer","https://www.linkedin.com/in/giovanni-pezzotti-518b01183/","spedimar.ch","Switzerland"]]}

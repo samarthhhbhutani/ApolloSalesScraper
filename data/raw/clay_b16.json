@@ -1,0 +1,21 @@
+{"batch":"b16","source":"Clay search-contacts","companies":[
+["rasf.nl","Rotterdam Air & Sea Freight B.V.","Netherlands","Rotterdam",null,"Air & sea freight forwarder (Apollo record; no Clay company profile)",1,1,1,1,"qualified",""],
+["dfgl.nl","Dairy and Food Global Logistics","Netherlands","Hendrik-Ido-Ambacht",8,"Freight forwarding for dairy & food, Port of Rotterdam",-1,1,1,1,"qualified",""],
+["hcrlogistics.com","HCR Logistics","Netherlands","Papendrecht",6,"Air & sea freight, road transport, warehousing",1,1,1,1,"qualified",""],
+["coastlink.eu","Coastlink B.V.","Netherlands","Tilburg",7,"Barge & rail terminal-based container logistics",0,0,0,1,"excluded","Inland barge/rail container transport, not air/ocean forwarding"],
+["liftfreight.com","Lift Freight Services","Netherlands","Schiphol",26,"Airfreight, ocean freight, courier, charters; GDP pharma; offices AMS/LON/Shenzhen; global networks",1,1,2,1,"qualified",""],
+["aaslogistics.com","AAS Logistics","Netherlands","Rotterdam",8,"International forwarding, e-commerce fulfilment, temperature-controlled trucking",-1,-1,1,1,"qualified",""],
+["loyalcargoservices.com","Loyal Cargo Services BV","Netherlands","Hoofddorp",9,"Logistics / cargo services near Schiphol",-1,-1,1,1,"qualified",""],
+["dutchqargo.com","DutchQargo","Netherlands","Nieuw-Vennep",21,"Sea & air freight forwarding",1,1,1,1,"qualified","Only a self-employed contact abroad returned - no decision-maker found"],
+["byrlogistics.com","BYR Logistics B.V.","Netherlands","Hoofddorp",3,"Schiphol forwarder: air, sea, road, customs, DG, AOG, project cargo; one dedicated contact per client",1,1,1,1,"qualified",""]],
+"contacts":[
+["Johan de Smit","Managing Director","https://www.linkedin.com/in/johan-de-smit-41a93ba1/","rasf.nl","Randstad, NL"],
+["Antonio Barbaro","CEO / Owner","https://www.linkedin.com/in/antonio-barbaro-51695040/","dfgl.nl","Hendrik-Ido-Ambacht, NL"],
+["Hans Kroon","CEO","https://www.linkedin.com/in/hans-kroon-387116115/","hcrlogistics.com","Sliedrecht, NL"],
+["Bas Elskamp","Operations Director","https://www.linkedin.com/in/bas-elskamp-2a1ab7110/","liftfreight.com","Randstad, NL"],
+["Ronald van der Valk","Managing director/owner","https://www.linkedin.com/in/aaslogistics1/","aaslogistics.com","Rotterdam, NL"],
+["Chris van Mullem","CEO and Founder","https://www.linkedin.com/in/chrisvanmullem/","aaslogistics.com","Rotterdam, NL"],
+["Hassan M.","Managing Director","https://www.linkedin.com/in/hassan-m-79a80a40/","loyalcargoservices.com","Amsterdam, NL"],
+["Francisco Zeper","Managing Director","https://www.linkedin.com/in/francisco-zeper-a5a85550/","loyalcargoservices.com","Netherlands"],
+["Rutger Bray","Co-owner / Operations director","https://www.linkedin.com/in/rutger-bray-141431140/","byrlogistics.com","Netherlands"],
+["Bram Straver","Co-founder & Head of Product, Pricing & Systems","https://www.linkedin.com/in/bram-straver/","byrlogistics.com","Amsterdam Area, NL"]]}

@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"gc-logistics.com":{"id":"5a9da952a6da98d96d80b6fc","employees":10,"city":"Roosendaal","founded_year":1903,"keywords":"family-owned; road/sea/air/intermodal; groupage"},
+"gfm.world":{"id":"5da3180d741f9b000189a30c","employees":18,"city":"Swalmen","founded_year":2016,"keywords":"air & ocean freight; road; warehousing; branches UK & DE"},
+"hansagate.com":{"id":"5ed067483a0e200001b963f2","employees":5,"city":"Plauen","keywords":"ocean & air freight; Mexico/LatAm-Europe","air":1},
+"hanseatic-freight.de":{"id":"5da64435364e550001b7793d","employees":12,"city":"Hamburg","founded_year":2018,"keywords":"ocean & air freight; project logistics; heavy lift","air":1,"ocean":1},
+"hcrlogistics.com":{"id":"5c282268f6512572735b5265","employees":6,"city":"Papendrecht","founded_year":2005,"keywords":"groupage; luchtvracht; zeevracht; OBC"},
+"hermesship.de":{"id":"678cdcc4d9fff6000124fc8d","employees":12,"city":"Hamburg","founded_year":1976,"keywords":"IATA member; air/sea/rail/road; project cargo"},
+"interlogserv.com":{"id":"5f48748cd179c300012dcc09","employees":45,"city":"Zug","keywords":"air & sea freight; project logistics; Sub-Saharan Africa focus","air":1,"ocean":1},
+"kuban-logistics.com":{"id":"654e2bd17e9d0f00bcd944a6","employees":3,"city":"Mörfelden-Walldorf","founded_year":2023,"keywords":"air & sea freight; NFO/AOG/BXO; DG; pharma"},
+"lgx-logistics.com":{"id":"5e57ddcc3f9e640001b6f10d","employees":21,"city":"Darmstadt","founded_year":2003,"keywords":"owner-managed; IATA air freight; ocean (Hamburg office); time-critical","air":1,"ocean":1},
+"liftfreight.com":{"id":"5d09d644a3ae61df6ce37031","employees":26,"city":"Schiphol","founded_year":2007,"keywords":"air & sea freight; NVOCC; pharma; fastest-growing export airfreight agent at AMS"}},
+"credit_log":[{"ts":"2026-11-27T05:40","action":"organizations_bulk_enrich batch 10 (10 domains)","credits_used":10,"balance_after":99,"note":"10/10 matched"}]}

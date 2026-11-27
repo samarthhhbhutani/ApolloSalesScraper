@@ -1,0 +1,19 @@
+{"batch":"b19","source":"Clay search-contacts","companies":[
+["kuban-logistics.com","Kuban International Logistics UG","Germany","Mörfelden",3,"Air & sea import/export, NFO, AOG, express, pharma, DG, customs (FRA)",1,1,1,1,"qualified",""],
+["ah-logistik.de","A+H GmbH","Germany","Hof",24,"Own fleet of 40+ trucks, road transport N-S Germany",0,0,0,1,"excluded","Trucking company with own fleet"],
+["valexandertransport.de","V. Alexander Transport Systems GmbH","Germany","Bremen",14,"Road, sea & air freight door-to-door; general cargo & project logistics",1,1,1,1,"qualified",""],
+["globaltrans-international.com","Globaltrans Internationale Logistik GmbH","Germany","Düsseldorf",19,"Sea, air, rail and truck forwarding; offices DUS, FRA area, HAM, STR",1,1,1,1,"qualified","No decision-maker returned by people search"],
+["era.de","ERA Internationale Spedition GmbH","Germany","Kornwestheim",20,"International forwarder (Apollo-tagged air/sea freight); profile thin",-1,-1,1,1,"qualified","No decision-maker returned by people search"],
+["lifa-logistics.de","LIFA Logistics","Germany","Hof",11,"Young transport company (DE/TR)",0,0,0,1,"excluded","Road transport company; no air/ocean evidence"],
+["patto-logistics.com","Patto Logistics","Germany","Mörfelden-Walldorf",12,"Full logistics services worldwide (FRA & HAM offices)",1,-1,1,1,"qualified",""],
+["teconja.de","Speditionsgesellschaft Teconja mbH","Germany","Hamburg",28,"Global logistics / forwarding company",-1,-1,1,1,"qualified",""],
+["hermesship.de","HERMES Shipping & Airfreight GmbH","Germany","Hamburg",12,"Since 1976: worldwide sea, air, rail freight, trucking, project & heavy-lift, customs",1,1,1,1,"qualified",""],
+["hansagate.com","Hansa Gateway UG","Germany","Plauen",5,"Forwarding mainly Europe-Latin America; OOG & heavy lift; worldwide partner network",-1,1,2,1,"qualified",""]],
+"contacts":[
+["Jan Kuban","Unternehmensinhaber (Owner)","https://www.linkedin.com/in/jan-kuban-202a4b177/","kuban-logistics.com","Frankfurt Rhine-Main, DE"],
+["Martin Delion","Geschäftsführender Gesellschafter (Managing Partner)","https://www.linkedin.com/in/martin-delion-3093b8a4/","valexandertransport.de","Germany"],
+["Ricardo Arbex","Managing Director","https://www.linkedin.com/in/ricardo-arbex-b9402421/","patto-logistics.com","Greater Hamburg Area, DE"],
+["Timo Tessen","Managing Director","https://www.linkedin.com/in/timo-tessen-343567123/","teconja.de","Hamburg, DE"],
+["Tim Päßler","Managing Director","https://www.linkedin.com/in/tim-päßler-880843162/","hermesship.de","Hamburg, DE"],
+["Christian Prüß","Geschäftsführer (Managing Director)","https://www.linkedin.com/in/christian-prüß-a639b5278/","hermesship.de","Hamburg, DE"],
+["Andre Koehler","Director","https://www.linkedin.com/in/andre-koehler-96332279/","hansagate.com","Plauen, DE"]]}
