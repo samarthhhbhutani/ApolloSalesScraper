@@ -1,0 +1,22 @@
+{"batch":"b13","source":"Clay search-contacts","companies":[
+["natco.ch","Natco AG","Switzerland","Rümlang",46,"Project, sea & air forwarding (IATA); part of Trans Global Projects Group (UK, independent project-logistics group)",1,1,2,1,"qualified","Member of TGP group (independent mid-size)"],
+["olgworldwide.com","OLG international SA","Switzerland","Chiasso",13,"Air/sea/land logistics for luxury fashion, fine art, wine; offices Milan, HK, Shanghai, Shenzhen",1,1,2,1,"qualified",""],
+["oxencargo.com.br","Oxen Cargo","Brazil","Rio de Janeiro",18,"Family-owned logistics company in Brazil",1,1,1,1,"excluded","Not in target geography (Brazil - Apollo record mismatch)"],
+["globalairliftsolutions.com","Global Airlift Solutions Ltd.","Switzerland","Dietikon",36,"Air freight forwarding, charter brokerage, OBC, critical care; branches LU, DE, US, CN, HK",1,0,2,1,"qualified",""],
+["unilogistics.ch","Unilogistics AG","Switzerland","Birsfelden",19,"IATA member & NVOCC, HTFN network member, customs at airports/borders, 9,000 m2 warehouse",1,1,2,1,"qualified",""],
+["seagull-worldwide.com","Seagull SA","Switzerland","Baar",50,"International forwarder with agent network (LinkedIn 201-500)",1,1,2,1,"excluded","LinkedIn size band 201-500 suggests >100 employees; no decision-maker returned"],
+["trans-world.ch","Trans World AG","Switzerland","Spreitenbach",14,"FCL/LCL, air freight, continental trucking, rail, project cargo, customs, GDP pharma",1,1,1,1,"qualified",""],
+["glob-sped.ch","GLOB-SPED","Switzerland","Brunegg",48,"Mid-sized international transport & logistics: land, sea and air freight, warehousing",1,1,1,1,"qualified",""],
+["zust-bachmeier.com","Züst Bachmeier SA","Switzerland","Chiasso","11-50 (band)","Forwarder since 1911: air, sea, road, logistics; LOGNET, ICEFAT, IAM member",1,1,2,1,"qualified",""],
+["magsped.ch","Magsped AG","Switzerland","Liestal",19,"Pan-European transport & warehousing",0,0,0,1,"excluded","Primarily road transport & warehousing"]],
+"contacts":[
+["Patrick Klee","Commercial Director","https://www.linkedin.com/in/patrick-klee-62b146135/","natco.ch","Dättwil, CH"],
+["Peter Fritschi","Director of Projects","https://www.linkedin.com/in/peter-fritschi-natco-tgp/","natco.ch","Rümlang, CH"],
+["Federico F.","Managing Director","https://www.linkedin.com/in/federico-f-81a6a815/","olgworldwide.com","Lugano, CH"],
+["Joachim \"Joe\" Hauff","Managing Director","https://www.linkedin.com/in/joachim-joe-hauff-b0957364/","globalairliftsolutions.com","Luxembourg"],
+["Thomas Ruegger","Chairman, Owner","https://www.linkedin.com/in/thomas-ruegger-71027454/","unilogistics.ch","Basel, CH"],
+["Stephanie Völkle","Sales Director","https://www.linkedin.com/in/stephanie-völkle-185615125/","unilogistics.ch","Birsfelden, CH"],
+["Robin Nehmer","CMSO / Chief Marketing & Sales Officer","https://www.linkedin.com/in/robin-nehmer-744718168/","trans-world.ch","Zurich, CH"],
+["Richard Etter","General Manager","https://www.linkedin.com/in/richard-etter-1143921b/","glob-sped.ch","Basel, CH"],
+["Sara Volani","Chief Operating Officer","https://www.linkedin.com/in/saravolani/","zust-bachmeier.com","Lugano, CH"],
+["Fabio Lorenzi","Sales Director","https://www.linkedin.com/in/fabiolorenzi87/","zust-bachmeier.com","Chiasso, CH"]]}

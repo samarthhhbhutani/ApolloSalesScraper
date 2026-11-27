@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"cfsfreight.co.uk":{"id":"6569b0b94892f600018127f5","employees":7,"city":"Liverpool","founded_year":1992,"keywords":"ocean & air freight; customs; project/charter","air":1,"ocean":1},
+"foxglobal.nl":{"id":"54a1275569702d9548827a00","employees":65,"city":"Berkel en Rodenrijs","founded_year":2005,"keywords":"NVOCC sea freight; IATA air freight; customs; China focus"},
+"globalairliftsolutions.com":{"id":"5edb04dde35d1f0001f92044","employees":37,"city":"Dietikon","founded_year":2013,"keywords":"air charter; premium air freight; OBC; critical care"},
+"ito-logistics.de":{"id":"556cf14173696412382a6200","employees":91,"city":"Mörfelden-Walldorf","founded_year":1978,"keywords":"sea/air/land; project; government & defence","note":"Apollo: described as a German logistics group with ~80-200 staff across countries (borderline size)"},
+"tuscorlloyds.com":{"id":"54a1390069702d2bfd0e2200","employees":44,"city":"Manchester","founded_year":1994,"keywords":"project cargo; LCL/FCL; air freight; NVOCC; offices US/CA/MX/TR","air":1},
+"yushilimited.co.uk":{"id":"60b2d0105e00170001216669","employees":41,"city":"London","founded_year":2017,"keywords":"sea & air freight; FCL/LCL; customs","air":1},
+"cargotransbremen.de":{"id":"54a133f369702d2db4543600","employees":6,"city":"Bremen","founded_year":1991,"keywords":"machinery transport; sea freight import/export; Luftfracht; heavy haulage","air":1,"ocean":1},
+"cargo-net.co.uk":{"id":"556d6fd7736964124bb31001","employees":29,"city":"Camberley","founded_year":2013,"keywords":"neutral air freight wholesaler for forwarders; consolidations"},
+"complete-freight.co.uk":{"id":"65773cd11c1c7f00fcd8331a","employees":6,"city":"Dorking","founded_year":2023,"keywords":"air/ocean/road/rail forwarding; customs; BRCGS warehousing","air":1,"ocean":1},
+"crossfreight-logistics.com":{"id":"61ad13df7f330900012f7f05","employees":4,"city":"Basel","founded_year":2021,"keywords":"air/sea/road freight; e-commerce","air":1,"ocean":1}},
+"credit_log":[{"ts":"2026-11-27T04:20","action":"organizations_bulk_enrich batch 05 (10 domains)","credits_used":10,"balance_after":149,"note":"10/10 matched"}]}

@@ -1,0 +1,16 @@
+{"batch":"b07","source":"Clay search-contacts","companies":[
+["transauriga.com","TRANS AURIGA GmbH","Germany","Stuttgart",13,"Project forwarding worldwide: ocean FCL/OOG/breakbulk/RoRo, airfreight, oversize land transport, customs",1,1,1,1,"qualified",""],
+["sail.li","SAIL GmbH, Sea Air Integrated Logistics","Germany","Hamburg",8,"NVOCC, perishable/reefer sea & air forwarding; US offices; FMC-registered",1,1,1,1,"qualified",""],
+["johs-martens.de","Johs. Martens Spedition","Germany","Hamburg",20,"Tank trucking of mineral oil and gases",0,0,0,1,"excluded","Pure trucking (tank haulage)"],
+["amafreight.com","AMA Freight Agency","Germany","Hamburg",74,"Owner-run family forwarder (land/sea/air) with own offices on every continent (LinkedIn 201-500)",1,1,2,1,"excluded","Likely exceeds 100 employees (LinkedIn size band 201-500; global own-office network)"],
+["ao-partners.com","Air & Ocean Partners GmbH","Germany","Munich",4,"Global cargo network association",0,0,0,1,"excluded","Forwarder network association, not an operating forwarder"],
+["bruhnsped.com","Bruhn Spedition","Germany","Lübeck",88,"Road/short-sea transport of general cargo and bulk/tank containers (own equipment)",0,0,0,1,"excluded","Primarily road/container haulage; no air/ocean forwarding focus"],
+["globalshippingbremen.de","Global Shipping & Logistics GmbH","Germany","Bremen",6,"Multimodal sea freight FCL/LCL, project & heavy cargo, dangerous goods, customs",0,1,1,1,"qualified","No decision-maker returned by people search"],
+["rosebrock.com","Wilhelm Rosebrock GmbH & Co. KG","Germany","Bremen",31,"Air & ocean freight, worldwide project logistics, international removals",1,1,1,1,"qualified",""],
+["goellner-spedition.eu","Göllner Spedition","Germany","Nienburg",24,"Road groupage/FTL, own fleet, Baltic branches (LinkedIn 201-500)",0,0,0,1,"excluded","Road haulage / groupage network"],
+["hegmann-transit.com","Hegmann Transit GmbH","Germany","Sonsbeck",null,"Truck transportation",0,0,0,1,"excluded","Trucking"]],
+"contacts":[
+["Timo Wittmann","Managing Director","https://www.linkedin.com/in/timotransauriga/","transauriga.com","Stuttgart, DE"],
+["Tobias Pisall","Managing Director","https://www.linkedin.com/in/tobias-pisall-776b4b1/","transauriga.com","Stuttgart, DE"],
+["Martin Simon","Managing Director","https://www.linkedin.com/in/martin-simon-39323333/","sail.li","Hamburg, DE"],
+["Wojciech Kwiatek","Country Director","https://www.linkedin.com/in/wojciech-kwiatek-2179aa31/","rosebrock.com","Warsaw, PL"]]}

@@ -1,0 +1,20 @@
+{"batch":"b02","source":"Clay search-contacts","companies":[
+["efreightforwarding.com","E-Freight Forwarding","Netherlands","Vianen",10,"Freight forwarding and warehousing (modes not specified)",-1,-1,1,1,"qualified",""],
+["itlbv.com","Independent Transport Logistics","Netherlands","Moerdijk",11,"Road-transport forwarder within Europe",0,0,0,1,"excluded","Pure road transport forwarder - no air/ocean"],
+["myfreight.nl","MyFreight","Netherlands","Amsterdam",9,"AI digital platform for freight forwarders",0,0,0,1,"excluded","Freight technology / software vendor"],
+["euronordic.nl","Euro Nordic Logistics","Netherlands","Rotterdam",62,"Ship agency, container/bulk/project cargo forwarding, warehousing (Rotterdam/Antwerp)",0,1,1,1,"qualified",""],
+["xpedite-services.com","Xpedite Services LLC","United States","Sapulpa",15,"US trucking brokerage",0,0,0,1,"excluded","Not in target geography (US); trucking"],
+["vbemsagroup.com","VBE MSA Group","Netherlands","Dordrecht",40,"Privately owned since 1974: ocean, air, consolidation, road, customs, 3PL",1,1,1,1,"qualified",""],
+["portexlogistics.com","Portex Logistics","Netherlands","Rotterdam",26,"Sea (FCL/LCL/RoRo/project), air, road; worldwide agents",1,1,2,1,"qualified",""],
+["simplecargo.aero","Simple Cargo","Netherlands","Schiphol",8,"Boutique airline GSA",1,0,0,1,"excluded","Airline general sales agent (represents airlines), not a forwarder"],
+["fle-nl.com","FLE (Freight Line Europe)","Netherlands","Maasdijk",32,"Temperature-controlled road transport of fresh produce",0,0,0,1,"excluded","Primarily trucking (temperature-controlled road)"],
+["braanker.com","Braanker Logistics","Netherlands","Alblasserdam",62,"All modalities incl. worldwide airfreight (Schiphol), sea, road fleet, worldwide agent network",1,1,2,1,"qualified",""]],
+"contacts":[
+["Jason de Wit","Director","https://www.linkedin.com/in/jason-de-wit-0641425/","efreightforwarding.com","Amsterdam Area"],
+["Maciek Chelmowski","Business Development Director","https://www.linkedin.com/in/maciekchelmowski/","euronordic.nl","Rotterdam, NL"],
+["Andre Schravesande","General Manager Agencies & Transhipment","https://www.linkedin.com/in/andre-schravesande-24614326/","euronordic.nl","Randstad, NL"],
+["Michael de Rouw","CEO & Owner of VBE Group B.V.","https://www.linkedin.com/in/michael-de-rouw-24757914/","vbemsagroup.com","Randstad, NL"],
+["Laurence van Leeuwen","Managing Director","https://www.linkedin.com/in/laurence-van-leeuwen-b330079/","vbemsagroup.com","Randstad, NL"],
+["Miranda Lagerwerf","General Manager","https://www.linkedin.com/in/miranda-lagerwerf-9939544b/","portexlogistics.com","Poortugaal, NL"],
+["Chris Braanker","Managing Director / Owner","https://www.linkedin.com/in/chris-braanker-67287a32/","braanker.com","Randstad, NL"],
+["Tony Faro","Chief Operating Officer/Director Continuous Improvement","https://www.linkedin.com/in/tonyfaro/","braanker.com","Randstad, NL"]]}

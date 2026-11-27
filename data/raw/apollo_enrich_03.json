@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"embassyfreight.nl":{"id":"54a25d4c74686935be1f3c1d","employees":32,"city":"Vlaardingen","founded_year":2004,"keywords":"zeevracht; luchtvracht; customs; AEO; NAICS 488510","independent":0,"note":"Apollo: part of Embassy Group (60+ offices worldwide) - partial independence"},
+"intralog.ch":{"id":"5e56aff615f95c00012cf8de","employees":43,"city":"Pratteln","founded_year":2001,"keywords":"Luftfracht; Seefracht; customs; NAICS 488510","status":"excluded","independent":0,"note":"Apollo: part of Swiss Post Cargo - not independent (excluded after enrichment)"},
+"kuiperslogistics.nl":{"id":"5f47fe63051bd60001c64a80","employees":36,"city":"Oldenzaal","founded_year":1987,"keywords":"road Italy; sea & air freight; India; NAICS 488510"},
+"moovle.global":{"id":"5a9edba5a6da98d932e60c56","employees":22,"city":"Alblasserdam","founded_year":2016,"keywords":"project cargo; airfreight; customs; NAICS 488510"},
+"oldenburgerfritom.nl":{"id":"5ed341fcb2161800010eadf2","employees":44,"city":"Veendam","founded_year":1917,"keywords":"road; air freight; sea freight; warehousing","independent":0,"note":"Apollo: owned by Fritom Group (family-owned)"},
+"sail.li":{"id":"54a12a8869702d90a28f4802","employees":8,"city":"Hamburg","founded_year":2000,"keywords":"NVOCC; reefer ocean & air; AEO-F; NAICS 488510"},
+"skygroup.nl":{"id":"57c4c2c8a6da983672b8711e","employees":15,"city":"Hoofddorp","founded_year":2003,"keywords":"air/ocean/road/rail; customs broker; NAICS 488510"},
+"skyline-express.de":{"id":"55ea5d81f3e5bb58e80067ff","employees":26,"city":"Lage","founded_year":2000,"keywords":"Seefracht; Luftfracht; Landverkehr; AEO; NAICS 488510"},
+"transauriga.com":{"id":"5d0a6cd980f93e9cdf88cd2d","employees":13,"city":"Stuttgart","founded_year":2017,"keywords":"project forwarding; sea & air; NAICS 488510"},
+"tideworldwide.co.uk":{"id":"60496bddf32c83000155a39f","employees":7,"city":"Ipswich","founded_year":2020,"keywords":"freight forwarding; BIFA/FIATA member; NAICS 488510","note":"Apollo: last filed accounts show company dormant - verify trading entity"}},
+"credit_log":[{"ts":"2026-11-27T04:00","action":"organizations_bulk_enrich batch 03 (10 domains)","credits_used":10,"balance_after":169,"note":"10/10 matched"}]}

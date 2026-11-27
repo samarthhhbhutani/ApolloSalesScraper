@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"7wlogistics.com":{"id":"60494011c92c310001d65eab","employees":14,"city":"Bremen","founded_year":2020,"keywords":"project logistics; heavy lift; sea freight; cross trades; NAICS 488510"},
+"boast.co.uk":{"id":"556dd1eb736964122f879b01","employees":18,"city":"Felixstowe","founded_year":1990,"keywords":"air/sea/road/rail forwarding; customs; port health; NAICS 488510"},
+"feelogic.nl":{"id":"5b8575cf324d447ae71ca537","employees":15,"city":"Rotterdam","founded_year":2017,"keywords":"sea freight; air freight; event logistics; NAICS 488510"},
+"skywavecargo.com":{"id":"66f9d63627980600012eca31","employees":6,"city":"Schiphol","founded_year":2024,"keywords":"air freight; sea freight; NAICS 488510"},
+"unilogistics.ch":{"id":"54a135aa69702d3cbbb3da00","employees":19,"city":"Birsfelden","founded_year":2009,"keywords":"air/sea/road freight; customs; IATA; HTFN; NAICS 488510"},
+"als-arnsberg.de":{"id":"5f4a8aed2ba6e80001b4c166","employees":10,"city":"Arnsberg","founded_year":1989,"keywords":"Luftfracht; Seefracht; Verzollung; NAICS 488510"},
+"all-infreight.com":{"id":"5ed34a7d4356d40001e577c1","employees":15,"city":"Aalsmeer","founded_year":2019,"keywords":"air freight; sea freight; perishables; NAICS 488510"},
+"backhaus-co.de":{"id":"604a980633aec000010c52e9","employees":10,"city":"Hamburg","founded_year":1921,"keywords":"Seefracht LCL/FCL; Luftfracht; Zoll; NAICS 488510"},
+"clg-hamburg.de":{"id":"5b15c7f4a6da98714a0898d5","employees":20,"city":"Hamburg","founded_year":2016,"keywords":"NVOCC; LCL/FCL; air freight; NAICS 488510"},
+"combifreight.com":{"id":"6637e9a81c85740001971927","employees":3,"city":"Steinhausen","founded_year":2010,"keywords":"freight forwarding; customs brokerage; NAICS 488510"}},
+"credit_log":[{"ts":"2026-11-27T03:40","action":"organizations_bulk_enrich batch 01 (10 domains)","credits_used":10,"balance_after":189,"note":"10/10 matched"}]}

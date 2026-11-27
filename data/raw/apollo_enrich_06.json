@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"excellence-global-logistics.com":{"id":"60d4f4e80564c300a4d5fc8b","employees":17,"city":"Rüsselsheim","founded_year":2018,"keywords":"air import/export; AOG; OBC; sea freight; AEO","air":1,"ocean":1},
+"fcelogistics.com":{"id":"660058d6e371570007c5a38e","employees":6,"city":"Emmen","founded_year":2023,"keywords":"air/ocean/road/rail; IATA certified; customs","air":1,"ocean":1},
+"mairon.co.uk":{"id":"61eb90c29a299c0001f3c960","employees":12,"city":"Pulborough","founded_year":1998,"keywords":"air/sea/road freight; overseas offices HK/US/DE/CH","air":1,"ocean":1},
+"malensteingloballogistics.com":{"id":"556ceca273696411e3415e00","employees":28,"city":"Schiphol","founded_year":1983,"keywords":"family-owned IATA air forwarder; ocean & road; pharma cold chain; offices AMS/ANR/BRU/FRA/LON/MAN/STR/WAW","ocean":1},
+"natco.ch":{"id":"5d0a0d54f651257e176c8330","employees":46,"city":"Rümlang","founded_year":1978,"keywords":"project logistics; air/ocean/road; IATA; AEO","independent":0,"note":"Apollo: owned by Trans Global Projects (TGP)"},
+"portexlogistics.com":{"id":"5e5643f382ec1b0001e8d6e7","employees":26,"city":"Rotterdam","founded_year":2007,"keywords":"ocean/air/road/rail; NAICS 488510"},
+"reibelfreight.nl":{"id":"623fcb4eb4a33f000154c0e5","employees":12,"city":"Hoofddorp","founded_year":1998,"keywords":"air & ocean freight; customs; cold chain; NAICS 488510"},
+"rini-logistics.com":{"id":"650a6dcd625e5200013cbaca","employees":4,"city":"Arkel","founded_year":2022,"keywords":"road/air/sea intermediary; warehousing","air":1,"ocean":1},
+"zust-bachmeier.com":{"id":"5da12930f472800001a1c88f","employees":17,"city":"Chiasso","founded_year":1911,"keywords":"air/sea/road/rail; customs; fine art"},
+"oceannet.nl":{"id":"556d4f0973696411ece4d900","employees":11,"city":"Papendrecht","founded_year":1988,"keywords":"independent NVOCC; air freight; Caucasus","air":1}},
+"credit_log":[{"ts":"2026-11-27T04:30","action":"organizations_bulk_enrich batch 06 (10 domains)","credits_used":10,"balance_after":139,"note":"10/10 matched"}]}

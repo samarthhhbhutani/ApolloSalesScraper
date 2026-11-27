@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"gatewaycargo.de":{"id":"556d440873696411b6bcc800","employees":25,"city":"Norderstedt","founded_year":1988,"keywords":"Luftfracht; Seefracht; road; rail; NAICS 48851"},
+"gmfnl.com":{"id":"556dafd273696411f46f7601","employees":6,"city":"Rotterdam","founded_year":2013,"keywords":"ship spares; air & sea freight; NAICS 488510"},
+"hcl-logistics.de":{"id":"5f4973d99870cb000154ee54","employees":14,"city":"Ludwigshafen","founded_year":2017,"keywords":"sea/air/road/intermodal; flexitanks; NAICS 488510"},
+"killickmartin.com":{"id":"5a9d373ea6da98d99a3b76e5","employees":17,"city":"Basildon","founded_year":1861,"keywords":"air/ocean/road freight; NAICS 488510","note":"Apollo: member of Atlantic Pacific Group Ltd; five UK offices"},
+"grobecker.de":{"id":"5a9e4388a6da98d9664454c3","employees":4,"city":"Bremen","founded_year":1993,"keywords":"Seefracht; Luftfracht; break bulk; NAICS 48851"},
+"mocean-logistics.com":{"id":"67d9004f25e9e60001874079","employees":6,"city":"Bremen","founded_year":2025,"keywords":"sea/air/rail/road; fast quotation turnaround; NAICS 488510"},
+"olgworldwide.com":{"id":"5f3dd0f16eea1d0001ea9023","employees":13,"city":"Chiasso","founded_year":2013,"keywords":"air/sea/land; luxury & fine art; NAICS 488510"},
+"westboundglobal.com":{"id":"5d099d13a3ae615301b77023","employees":42,"city":"Basildon","founded_year":2009,"keywords":"sea/air consolidation China-UK; customs; NAICS 48851"},
+"cross-freight.de":{"id":"5e575ca97e83710001cac6df","employees":10,"city":"Hamburg","founded_year":1996,"keywords":"air & sea freight; ship spares; hazardous; NAICS 488510"},
+"dakoworld.com":{"id":"55eccf3ef3e5bb163600106e","employees":36,"city":"Düsseldorf","founded_year":2004,"keywords":"project forwarding; heavy lift; chartering; NAICS 488510","note":"Apollo: part of CF&S Group / Project Cargo Network"}},
+"credit_log":[{"ts":"2026-11-27T03:50","action":"organizations_bulk_enrich batch 02 (10 domains)","credits_used":10,"balance_after":179,"note":"10/10 matched"}]}

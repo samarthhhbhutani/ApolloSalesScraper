@@ -1,0 +1,18 @@
+{"batch":"b14","source":"Clay search-contacts","companies":[
+["nemosped.ch","NEMOSPED SA","Switzerland","Stabio",9,"Pharma/fashion logistics, warehousing, CH-IT road shuttles, customs",0,0,0,1,"excluded","Primarily warehousing/fulfilment and road shuttles"],
+["general-transport.com","General Transport AG","Switzerland","Basel",50,"Mid-sized forwarder ('Five Star Logistics'): ocean freight, project logistics, global network",-1,1,2,1,"qualified",""],
+["transsped.ch","TRANS SPED AG","Switzerland","Embrach",32,"Truck transportation",0,0,0,1,"excluded","Trucking"],
+["combifreight.com","COMBIFREIGHT","Switzerland","Steinhausen",3,"Air & ocean (FCL/LCL) forwarding worldwide, EU road groupage, customs; ZRH office + Tallinn",1,1,1,1,"qualified",""],
+["globalairfreight.ch","Global Airfreight GmbH","Switzerland","Zurich Airport",6,"Air freight forwarder at Zurich airport (DG, perishables, valuables)",1,0,1,1,"qualified",""],
+["cargocare.ch","CARGOCARE","Switzerland","Embrach",9,"Logistics, warehousing & transportation with worldwide network (LinkedIn 51-200)",-1,-1,1,1,"qualified","No decision-maker returned by people search"],
+["transfreight.ch","Transfreight AG","Switzerland","Basel",20,"Owner-managed family forwarder (air, sea, European land); >100 employees across the group",1,1,2,1,"excluded","Group exceeds 100 employees (company states 'over 100 employees in the group')"],
+["intralog.ch","InTraLog Hermes AG / InTraLog Overseas AG","Switzerland","Pratteln",43,"Forwarding & logistics: land, air, sea, customs; Basel/Geneva/Kloten",1,1,1,1,"qualified",""],
+["tisa.ch","TISA Speditions AG","Switzerland","Widnau",53,"Road groupage/part/full loads CH-AT-IT-DE-FR, customs, contract logistics",0,0,0,1,"excluded","Primarily road groupage and customs"],
+["crossfreight-logistics.com","Crossfreight Logistics Ltd.","Switzerland","Basel",4,"Freight forwarding & supply chain solutions worldwide",-1,-1,1,1,"qualified",""]],
+"contacts":[
+["Alan Zedi","General Manager Ocean Freight","https://www.linkedin.com/in/alanzedi/","general-transport.com","Basel, CH"],
+["Mike Montigel","General Manager Project Logistics","https://www.linkedin.com/in/mikemontigel/","general-transport.com","Basel, CH"],
+["Vlad Banko","CEO, BDM","https://www.linkedin.com/in/vlad-banko-94396ab1/","combifreight.com","Zug, CH"],
+["Marc Bodmer","General Manager","https://www.linkedin.com/in/marc-bodmer-b2b44b123/","globalairfreight.ch","Kloten, CH"],
+["Claudine Schuch","CEO","https://www.linkedin.com/in/claudine-schuch/","intralog.ch","Zurich, CH"],
+["Roland Pfister","President & CEO","https://www.linkedin.com/in/roland-pfister-338b5a219/","crossfreight-logistics.com","Basel, CH"]]}

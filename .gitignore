@@ -1,0 +1,9 @@
+# secrets / local env
+.env
+*.env
+.claude/settings.local.json
+# python
+__pycache__/
+*.pyc
+# rebuildable intermediate db (raw JSON checkpoints in data/raw are the source of truth)
+data/research.db

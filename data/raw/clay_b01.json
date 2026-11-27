@@ -1,0 +1,13 @@
+{"batch":"b01","source":"Clay search-contacts","companies":[
+["all-infreight.com","All-in Freight Forwarding B.V.","Netherlands","Aalsmeer",15,"Independent forwarder: air, sea, road, perishables near Schiphol/FloraHolland",1,1,1,1,"qualified",""],
+["bemotrans.com","Bemotrans Freight Forwarding B.V.","Netherlands","Oirschot",8,"Road groupage EU-UK/Ireland, warehousing, customs",0,0,0,1,"excluded","Primarily road groupage/trucking to UK; no air/ocean forwarding evidence"],
+["tfflogistics.com","Team Freight Forwarding (TFF)","Netherlands","Joure",27,"Sea, air, express, online shipping portal; worldwide network; Schiphol office",1,1,1,1,"qualified",""],
+["foxglobal.nl","FOX Global","Netherlands","Berkel en Rodenrijs",67,"Family-owned sea/air forwarder with China/Asia focus, customs, warehousing",1,1,2,1,"qualified",""],
+["jet-logistics.com","Jet International Logistics NL","Netherlands","Oude Meer",6,"European branch of J&T Group",1,1,1,0,"excluded","Subsidiary of large multinational (J&T Group) - not independent"]],
+"contacts":[
+["Norman de Vos","Owner / Director","https://www.linkedin.com/in/norman-de-vos-01344132/","foxglobal.nl","Berkel en Rodenrijs, NL"],
+["Rick Voskamp","General Manager","https://www.linkedin.com/in/rick-voskamp-60232187/","foxglobal.nl","Rotterdam, NL"],
+["Jaap Theo Vellema","Managing Director - Team Freight Forwarding","https://www.linkedin.com/in/jaap-theo-vellema-3b16912/","tfflogistics.com","Randstad, NL"],
+["Martijn Schadenberg","Director","https://www.linkedin.com/in/martijn-schadenberg-6659a3b/","tfflogistics.com","Groningen, NL"],
+["Niels Sirks","Director Business Development","https://www.linkedin.com/in/niels-sirks-a1157454/","tfflogistics.com","Groningen, NL"],
+["Jeroen Groeneveld","Founder & Director","https://www.linkedin.com/in/jgroen/","all-infreight.com","Amsterdam, NL"]]}

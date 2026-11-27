@@ -1,0 +1,20 @@
+{"batch":"b06","source":"Clay search-contacts","companies":[
+["spedition-bode.de","Spedition Bode GmbH & Co. KG","Germany","Reinfeld",35,"Road transport of forest products, temperature-controlled food, warehousing (LinkedIn 201-500)",0,0,0,1,"excluded","Primarily trucking/road haulage; size band 201-500"],
+["dakoworld.com","DAKO Worldwide Transport GmbH","Germany","Düsseldorf",36,"Project-focused international forwarder with worldwide own offices and agents",1,1,2,1,"qualified",""],
+["clg-hamburg.de","CLG - Consolidation & Logistics GmbH","Germany","Hamburg",20,"Owner-managed neutral NVOCC: LCL/FCL sea freight, air freight, trucking, customs; Bremen/Rotterdam/Shanghai",1,1,2,1,"qualified",""],
+["mocean-logistics.com","M'Ocean Logistics","Germany","Bremen",6,"Sea & air import/export, project cargo, rail, trucking; 'fast lane quotations within one hour'",1,1,1,1,"qualified",""],
+["alexander-logistics.com","Alexander Global Logistics","Germany","Bremen",65,"Owner-managed independent LSP with 185+ staff and offices in BR, PL, US, AE, CL, FI, CN",1,1,2,1,"excluded","Exceeds 100-employee limit (185+ professionals per company profile)"],
+["ctl-ag.de","CTL Cargo Trans Logistik AG","Germany","Homberg (Efze)",55,"Hub of LTL/groupage road cooperation with 190 system partners",0,0,0,1,"excluded","Road groupage network (pure trucking)"],
+["cargoflex.eu","CARGOFLEX GmbH","Germany","Lübeck",13,"Own truck fleet, bio-LNG road/intermodal (LinkedIn 201-500)",0,0,0,1,"excluded","Trucking company"],
+["taklog.de","Taklog Int Trans GmbH","Germany","Hof",4,"Road trucking to Turkey/Central Asia",0,0,0,1,"excluded","Pure road trucking"],
+["7wlogistics.com","7 Worldwide Logistics GmbH","Germany","Bremen",14,"Project logistics & cross trades: breakbulk, heavy-lift, RoRo, air; chartering; global partner network",1,1,2,1,"qualified",""],
+["ahlmann-zerssen.com","AHLMANN-ZERSSEN GMBH","Germany","Rendsburg",25,"Chartering, port agency, own coasters, transshipment",0,1,0,1,"excluded","Ship chartering / port agency / shipowner rather than forwarder"]],
+"contacts":[
+["Julian Slusarek","Managing Director","https://www.linkedin.com/in/julianslusarek/","dakoworld.com","Düsseldorf, DE"],
+["Paul von Brandenburg","Director Industrial Projects","https://www.linkedin.com/in/paul-von-brandenburg/","dakoworld.com","Düsseldorf, DE"],
+["Tom Ahmann","Managing Director","https://www.linkedin.com/in/tom-ahmann-258974136/","clg-hamburg.de","Hamburg, DE"],
+["Rafael Zimmermann","Chief Operating Officer","https://www.linkedin.com/in/rafael-zimmermann-28a80613a/","clg-hamburg.de","Hamburg, DE"],
+["Jan-Moritz Höler","Geschäftsführender Gesellschafter / CEO & Founder","https://www.linkedin.com/in/jan-moritz-höler-b74970144/","mocean-logistics.com","Bremen, DE"],
+["Benjamin Wiebalck","Director Sales","https://www.linkedin.com/in/benjamin-wiebalck-9a1209214/","mocean-logistics.com","Bremen, DE"],
+["Jürgen Weyhausen","Geschäftsführender Partner (Managing Partner)","https://www.linkedin.com/in/jürgen-weyhausen-36b1b7125/","7wlogistics.com","Suhl, DE"],
+["Torben Backhaus","Geschäftsführer (Managing Director)","https://www.linkedin.com/in/torben-backhaus-ab5739145/","7wlogistics.com","Bremen, DE"]]}

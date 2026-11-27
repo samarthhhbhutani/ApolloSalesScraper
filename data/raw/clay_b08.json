@@ -1,0 +1,22 @@
+{"batch":"b08","source":"Clay search-contacts","companies":[
+["alphatrans.de","alpha trans Luft- und Seefrachtspedition GmbH & Co. KG","Germany","Munich Airport",39,"Owner-managed air & sea freight forwarder (MUC, FRA, DUS, STR; HK/Shenzhen offices)",1,1,2,1,"qualified",""],
+["apexsped.de","APEX GmbH Internationale Spedition","Germany","Glinde",null,"Road forwarding focused on Scandinavia; part of HEINZ Gruppe",0,1,0,0,"excluded","Part of HEINZ group; primarily road/Scandinavia groupage"],
+["ito-logistics.de","ITO Global Logistics","Germany","Mörfelden",91,"Global logistics for commerce, humanitarian aid, government & defence; African offices",1,1,2,1,"qualified",""],
+["cross-freight.de","Cross Freight Internationale Speditionsges.mbH","Germany","Hamburg",10,"Privately owned: ship spares, O&G equipment, hazardous goods, air/sea",1,1,1,1,"qualified",""],
+["btg.de","BTG Internationale Spedition GmbH","Germany","Augsburg",94,"International forwarder (LinkedIn size band 201-500; profile unclear)",-1,-1,0,1,"excluded","Size band 201-500 exceeds limit; unclear profile"],
+["cargomar.de","Cargomar GmbH Internationale Spedition","Germany","Bremen","11-50 (band)","Sea freight, airfreight, warehousing, fulfilment, transport",1,1,1,1,"qualified",""],
+["hcl-logistics.de","HCL-Logistics GmbH","Germany","Ludwigshafen",14,"Forwarder for land, sea and air freight worldwide",1,1,1,1,"qualified",""],
+["als-arnsberg.de","A.L.S. Allgemeine Land- und Seespedition GmbH","Germany","Arnsberg",10,"Inland forwarder offering worldwide air & sea freight, customs, warehousing",1,1,1,1,"qualified",""],
+["cargotransbremen.de","CARGOTRANS (Bremen) GmbH","Germany","Bremen",6,"International transport & logistics service provider (Bremen, Dresden)",-1,-1,1,1,"qualified",""],
+["woac.de","WOAC GmbH","Germany","Hamburg",10,"NVOCC: LCL, FCL, pre/on-carriage, customs",0,1,1,1,"qualified",""]],
+"contacts":[
+["Rainer Hoermansperger","Geschäftsführer / Managing Director","https://www.linkedin.com/in/rainerhoermansperger/","alphatrans.de","Freising, DE"],
+["Tim Teubert","Geschäftsführer / Managing Director","https://www.linkedin.com/in/timteubert/","alphatrans.de","Ratingen, DE"],
+["Gerald Mayrhofer","Managing Director / CEO Germany & Ukraine","https://www.linkedin.com/in/gmayrhofer/","ito-logistics.de","Hamburg, DE"],
+["Jens Sorgenfrei","Geschäftsführer (Managing Director)","https://www.linkedin.com/in/jens-sorgenfrei-117b12105/","cross-freight.de","Hamburg, DE"],
+["Markus D. Schöneberg","Geschäftsführer (Managing Director)","https://www.linkedin.com/in/markus-d-schöneberg-39707a94/","cargomar.de","Bremen, DE"],
+["Frank Hirsch","CEO","https://www.linkedin.com/in/frank-hirsch-939b531a1/","hcl-logistics.de","Ludwigshafen, DE"],
+["Christoph Dahlmann","Geschäftsführender Gesellschafter (Managing Partner)","https://www.linkedin.com/in/christoph-dahlmann-a1a56a12a/","als-arnsberg.de","Arnsberg, DE"],
+["Michael Millentrup","Kaufmännischer Direktor (Commercial Director)","https://www.linkedin.com/in/michael-millentrup-6234ba13b/","als-arnsberg.de","Arnsberg, DE"],
+["Ralph Richter","Geschäftsführender Gesellschafter (Managing Partner)","https://www.linkedin.com/in/ralph-richter-b5271247/","cargotransbremen.de","Bremen, DE"],
+["Vedran Maric","Geschäftsführender Gesellschafter (Managing Partner)","https://www.linkedin.com/in/vedran-maric-474b471bb/","woac.de","Germany"]]}

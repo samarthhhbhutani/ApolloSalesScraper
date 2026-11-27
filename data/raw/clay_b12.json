@@ -1,0 +1,17 @@
+{"batch":"b12","source":"Clay search-contacts","companies":[
+["m9logistics.com","M9 Logistics","United Kingdom","Grimsby",55,"Family-network forwarder: transport, customs, warehousing; offices NL, IE, DE, PL, US, UAE",1,1,2,1,"qualified","Only UAE-based executives returned - no European decision-maker found"],
+["yushilimited.co.uk","YUSHI Limited","United Kingdom","London",41,"BIFA-member forwarder; recyclables/scrap freight specialist; offices IN/US/UAE",-1,1,1,1,"qualified",""],
+["boast.co.uk","Boast International Ltd","United Kingdom","Felixstowe",18,"Independent forwarder & customs specialist since 1990: air, sea, road, rail; global agents; food & nuts sector",1,1,2,1,"qualified",""],
+["csellis.co.uk","CS Ellis Logistics","United Kingdom","South Luffenham",59,"Pallet network distribution, warehousing (LinkedIn 201-500)",0,0,0,1,"excluded","Pallet haulage/warehousing; size band 201-500"],
+["air-liaison.net","Air Liaison","United Kingdom","Manchester",7,"Airline GSSA (HAE Group)",1,0,0,0,"excluded","Airline GSSA, part of HAE Group"],
+["hastingsfreight.co.uk","Hastings Freight Limited","United Kingdom","Chesterfield",39,"Palletised freight haulage",0,0,0,1,"excluded","Pure trucking / pallet network"],
+["weld-int.com","WeLD International Transport","United Kingdom","London",73,"Freight forwarder with Far East focus; offices HK, US, FR, NL, DE, TR, AE, CN",1,1,2,1,"qualified","Only a Turkey-based sales director returned - no UK decision-maker found"],
+["expressfreightforwarding.com","Express Freight Forwarding","United Kingdom","Telford",5,"Same-day/next-day van and lorry deliveries",0,0,0,1,"excluded","Courier / domestic trucking"],
+["eshelbygroup.com","Eshelby Group","United Kingdom","United Kingdom",10,"Small freight movement/forwarding company",-1,-1,1,1,"qualified",""],
+["williams-shipping.co.uk","Williams Shipping","United Kingdom","Southampton",85,"Marine services, vessel charter, port services, container hire",0,0,0,1,"excluded","Marine/port services and chartering, not freight forwarding"]],
+"contacts":[
+["Karthik Kumar M.","Chief Executive Officer","https://www.linkedin.com/in/karthik-kumar-m-b397321b/","yushilimited.co.uk","London, UK"],
+["Prashanth Santhakumar","Director","https://www.linkedin.com/in/prashanth-santhakumar-a87a2179/","yushilimited.co.uk","London, UK"],
+["George Boast","Commercial Director & Co-Owner","https://www.linkedin.com/in/georgeboast/","boast.co.uk","Felixstowe, UK"],
+["Jenna Mathias","General Manager","https://www.linkedin.com/in/jenna-mathias-a318a3143/","boast.co.uk","Felixstowe, UK"],
+["Matthew Eshelby","Managing Director","https://www.linkedin.com/in/matthew-eshelby/","eshelbygroup.com","United Kingdom"]]}

@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"transall-spedition.de":{"id":"56d4e08df3e5bb070d000696","employees":15,"city":"Frankfurt am Main","keywords":"air/ocean/rail/road; customs; AEO-F; NAICS 48851"},
+"vbemsagroup.com":{"id":"5569c48473696425a9f19100","employees":97,"city":"Barendrecht","founded_year":2024,"keywords":"LCL/FCL consolidation; air freight; customs; NAICS 488510","note":"Apollo matched as NVO Group (nvogroup.eu), privately owned; 97 employees"},
+"vslogistics.nl":{"id":"556942577369642161402000","employees":21,"city":"Rotterdam","founded_year":2013,"keywords":"sea/air/road/rail; AEO; NAICS 488510"},
+"alphatrans.de":{"id":"5e565149942f650001255320","employees":39,"city":"Munich Airport","keywords":"Luftfracht; Seefracht; NAICS 48851","status":"excluded","independent":0,"note":"Apollo: owned by BARTH+CO Group; group employs 400+ - not independent / exceeds size (excluded after enrichment)"},
+"cargomar.de":{"id":"67b40e599a9caa0001262938","employees":12,"city":"Bremen","founded_year":1983,"keywords":"Seefracht LCL/FCL; Luftfracht; customs; NAICS 488510"},
+"kenderi.com":{"id":"5e5594733f01a5000198a64b","employees":17,"city":"Rotterdam","founded_year":2008,"keywords":"project/heavy cargo forwarding; customs; NAICS 488510"},
+"movatilogistics.com":{"id":"696b80d9262e4100014523e9","employees":5,"city":"Venlo","founded_year":2025,"keywords":"road FTL/LTL; sea freight; multimodal"},
+"tfflogistics.com":{"id":"556d482a7369641238e5d500","employees":27,"city":"Joure","founded_year":2014,"keywords":"sea/air/express; online shipping portal; NAICS 488510"},
+"woac.de":{"id":"5e5801d9b1d5f800019fac2b","employees":10,"city":"Hamburg","keywords":"NVOCC LCL/FCL; air freight; customs; global agent network; NAICS 488510"},
+"braanker.com":{"id":"54a25d8874686930c2d12e1d","employees":62,"city":"Alblasserdam","founded_year":1991,"keywords":"project & break bulk; dedicated sea and air freight departments; NAICS 488510"}},
+"credit_log":[{"ts":"2026-11-27T04:10","action":"organizations_bulk_enrich batch 04 (10 domains)","credits_used":10,"balance_after":159,"note":"10/10 matched"}]}

@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"evanwijkforwarding.nl":{"id":"644784fd75ab13008bd8bedd","employees":29,"city":"Almelo","keywords":"road/barge/rail Europe-Central Asia; zeevracht; luchtvracht; customs","air":1,"ocean":1,"independent":0,"note":"Apollo: owned by E. van Wijk Logistics B.V. (family group since 1948); formed 2025 by merger of six entities"},
+"globalairfreight.ch":{"id":"5f47f3cd844fa30001f8747d","employees":6,"city":"Zurich Airport","founded_year":2020,"keywords":"Luftfracht; Seefracht; customs; AOG; DG","ocean":1},
+"trans-world.ch":{"id":"60b1f443a0140e00010641c0","employees":14,"city":"Spreitenbach","keywords":"FCL/LCL; air freight; Europe trucking; customs"},
+"allseasglobal.com":{"id":"54a23d4474686930c2f4cd18","employees":83,"city":"Oldham","founded_year":2003,"keywords":"project logistics; ocean & air freight; chartering"},
+"allwaystransport.nl":{"id":"5e5730c454606e00019691fb","employees":24,"city":"Dordrecht","founded_year":1985,"keywords":"Caribbean sea & air freight; customs","status":"excluded","independent":0,"note":"Apollo: acquired by Share Logistics (Aug 2024) - no longer independent (excluded after enrichment)"},
+"efreightforwarding.com":{"id":"60af315d61fcf50001b4947f","employees":10,"city":"Vianen","keywords":"paperless forwarding; air/sea/road; warehousing","air":1,"ocean":1},
+"myon.nl":{"id":"556dbfdb736964124f498701","employees":30,"city":"Rotterdam","founded_year":2002,"keywords":"forwarding; customs brokerage; perishables; Schiphol warehouse for air freight","air":1},
+"euronordic.nl":{"id":"5f49af6f6d030b0001a38211","employees":59,"city":"Rotterdam","founded_year":1999,"keywords":"container/bulk/project; ship agency; sea & air freight","air":1},
+"twistlogistics.nl":{"id":"604a0a0096ecd900012c21c9","employees":7,"city":"Papendrecht","founded_year":2012,"keywords":"road transport; heavy cargo by road and sea; forwarding"},
+"smart-logistics.nl":{"id":"54a11e7869702d9d7e947001","employees":8,"city":"Schiphol","founded_year":2007,"keywords":"air & ocean freight","status":"excluded","note":"Apollo: same business as Tandem Smart Global Logistics (duplicate entity) - deduplicated"}},
+"credit_log":[{"ts":"2026-11-27T04:50","action":"organizations_bulk_enrich batch 08 (10 domains)","credits_used":10,"balance_after":119,"note":"10/10 matched"}]}

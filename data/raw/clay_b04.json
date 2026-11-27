@@ -1,0 +1,19 @@
+{"batch":"b04","source":"Clay search-contacts","companies":[
+["malensteingloballogistics.com","Malenstein Global Logistics","Netherlands","Schiphol",29,"Independent IATA agent & neutral forwarder at Schiphol: pharma, perishables, live animals, AOG, customs",1,0,1,1,"qualified",""],
+["kuiperslogistics.nl","Kuipers Logistics","Netherlands","Oldenzaal",36,"Road (own trucks, Italy), intermodal, ocean & air (Kuipers Air & Sea), India via partners",1,1,1,1,"qualified",""],
+["wings-onboard.com","Wings on Board","Netherlands","Hoofddorp",33,"On-board courier (OBC) provider",0,0,0,1,"excluded","Courier (on-board courier) business"],
+["cargoplot.com","Cargoplot","Netherlands","Amsterdam",46,"Digital marketplace connecting shippers with forwarders; VC-funded",0,0,0,1,"excluded","Freight technology platform"],
+["rini-logistics.com","Rini Logistics B.V.","Netherlands","Arkel",4,"Small worldwide transport/forwarding company",-1,-1,1,1,"qualified",""],
+["q3-group.com","Q3 Heavy Lift","Netherlands","Moerdijk",24,"Heavy-lift / project freight forwarding over land and sea",0,1,1,1,"qualified","No decision-maker returned by people search"],
+["vandongederoo.com","Van Donge & de Roo B.V.","Netherlands","Rhoon",71,"Large private Rotterdam shipping/forwarding group with NVOCCs, rail, depots (LinkedIn 201-500)",1,1,2,1,"excluded","Group exceeds 100-employee limit (LinkedIn size band 201-500; multiple subsidiaries)"],
+["kenderi.com","Kenderi","Netherlands","Rotterdam",17,"Project/heavy-equipment forwarder; branches CZ, PL, KZ, AZ, GE, UAE, TR",1,1,2,1,"qualified",""],
+["reibelfreight.nl","Reibel Air & Ocean Freight","Netherlands","Hoofddorp",12,"Air & ocean freight, customs, handling (Reibel Airfreight Holding, family-owned)",1,1,1,1,"qualified",""],
+["smart-logistics.nl","SMART Logistics B.V.","Netherlands","Hoofddorp",6,"Air freight forwarder (airlines, cargo carriers, charters), worldwide network",1,0,1,1,"qualified","No decision-maker returned by people search"]],
+"contacts":[
+["Anthony Ranson","Chief Executive Officer","https://www.linkedin.com/in/anthonyranson/","malensteingloballogistics.com","Antwerp Metropolitan Area"],
+["Oliver Stoehr","Managing Director Germany","https://www.linkedin.com/in/oliver-stoehr-252a6620/","malensteingloballogistics.com","Frankfurt Rhine-Main, DE"],
+["Wouter Engbersen","Co-owner / Director / Kuipers Air & Sea","https://www.linkedin.com/in/wouterengbersen/","kuiperslogistics.nl","Almelo, NL"],
+["Philip Vollenbroek","Mede-eigenaar (Co-owner) Kuipers Logistics B.V.","https://www.linkedin.com/in/philip-vollenbroek-48615916/","kuiperslogistics.nl","Hengelo, NL"],
+["Youssef Lamrini","Eigenaar (Owner)","https://www.linkedin.com/in/youssef-lamrini-a5ab0115a/","rini-logistics.com","Gorinchem, NL"],
+["Vyacheslav Kazarov","Managing Director","https://www.linkedin.com/in/vyacheslav-kazarov-a3b83341/","kenderi.com","Uzbekistan"],
+["Michael Henschel","General Manager","https://www.linkedin.com/in/michael-henschel-61537639/","reibelfreight.nl","Amsterdam, NL"]]}

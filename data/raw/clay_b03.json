@@ -1,0 +1,21 @@
+{"batch":"b03","source":"Clay search-contacts","companies":[
+["vslogistics.nl","VSL Logistics BV","Netherlands","Rotterdam",21,"Independent forwarder, worldwide via partner network & shipping line partnerships",-1,1,2,1,"qualified",""],
+["wexholland.com","Wex Holland B.V.","Netherlands","Schoonhoven",36,"Owner-managed logistics/forwarding company (Apollo-tagged freight forwarding)",-1,-1,1,1,"qualified",""],
+["moovle.global","Moovle BV","Netherlands","Alblasserdam",22,"Worldwide project forwarding of machines & equipment, customs; Schiphol office",1,1,1,1,"qualified",""],
+["rutges.com","Rutges Cargo Europe","Netherlands","Schiphol",60,"European truck operator for air-cargo (RFS)",0,0,0,1,"excluded","Trucking operator (road feeder services), not a forwarder"],
+["atllogistics.nl","ATL Logistics BV","Netherlands","Schiphol",22,"Air/sea/rail forwarder - acquired by Logwin Dec 2023",1,1,1,0,"excluded","Acquired by Logwin (multinational) - no longer independent"],
+["myon.nl","Myon Forwarding & Customs BV","Netherlands","Rotterdam",30,"Forwarder specialised in veterinary/phyto & temperature-controlled cargo, customs",-1,1,1,1,"qualified",""],
+["movatilogistics.com","Movati Logistics B.V.","Netherlands","Venlo",5,"SME-focused forwarder: road (FTL/LTL/groupage), sea freight, multimodal, projects",0,1,1,1,"qualified",""],
+["skywavecargo.com","SkyWave Cargo","Netherlands","Schiphol",8,"Air (Schiphol) + ocean (Rotterdam) forwarder founded 2024; IATA; WCA & IFA member; same-day all-in quotes",1,1,2,1,"qualified",""],
+["torcargo.com","Torcargo","Netherlands","Rotterdam",44,"Industrial carrier / liner shipping services",0,1,0,1,"excluded","Shipping line / carrier"],
+["twistlogistics.nl","Twist Logistics B.V.","Netherlands","Papendrecht",7,"International forwarder: road, ocean, air, warehousing, projects",1,1,1,1,"qualified","No decision-maker returned by people search"]],
+"contacts":[
+["Friso van Seters","Owner VS Logistics BV","https://www.linkedin.com/in/friso-van-seters-62573b10/","vslogistics.nl","Randstad, NL"],
+["Simone Wassink","Owner","https://www.linkedin.com/in/simone-wassink/","wexholland.com","Schoonhoven, NL"],
+["Renzo Wassink","Eigenaar (Owner)","https://www.linkedin.com/in/renzo-wassink/","wexholland.com","Randstad, NL"],
+["Marinus van der Sluijs","Founder CEO","https://www.linkedin.com/in/marinusvandersluijs/","moovle.global","Randstad, NL"],
+["Pedro Utzig Ottajano","Sea Freight Manager","https://www.linkedin.com/in/pedro-utzig-ottajano-b6b02355/","myon.nl","Netherlands"],
+["Jeroen Knelissen","Managing Director / DGA","https://www.linkedin.com/in/jeroen-knelissen-b62a69124/","movatilogistics.com","Arnhem-Nijmegen, NL"],
+["Remo K.","Managing Director / DGA","https://www.linkedin.com/in/remo-k-a2a3b41a4/","movatilogistics.com","Netherlands"],
+["Thomas Hendriks","Managing Director & Founder","https://www.linkedin.com/in/hendriksthomas/","skywavecargo.com","Amsterdam, NL"],
+["Paul Velraeds","Branch Manager Rotterdam and Co Founder","https://www.linkedin.com/in/paulvelraeds/","skywavecargo.com","Rotterdam, NL"]]}

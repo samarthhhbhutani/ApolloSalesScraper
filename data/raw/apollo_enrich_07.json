@@ -1,0 +1,12 @@
+{"source":"Apollo organizations_bulk_enrich","orgs":{
+"eshelbygroup.com":{"id":"55ea5fd5f3e5bb59000076f7","employees":10,"city":"Stockport","founded_year":2015,"keywords":"family-run independent forwarder / forwarding consultancy; air/sea/road","air":1,"ocean":1},
+"glob-sped.ch":{"id":"54a25daa7468693cddae411d","employees":49,"city":"Basel","founded_year":1977,"keywords":"road/air/sea/rail; customs","status":"excluded","independent":0,"note":"Apollo: owned by Schneider Transport (Schneider group) - not independent (excluded after enrichment)"},
+"general-transport.com":{"id":"556cf00e736964121fb76600","employees":50,"city":"Basel","founded_year":1947,"keywords":"air/ocean/road; project logistics","status":"excluded","independent":0,"note":"Apollo: subsidiary of Geis Group (Germany) - not independent (excluded after enrichment)"},
+"tandem-smart.nl":{"id":"60f1815adbb74f00a433e646","employees":41,"city":"Hoofddorp","founded_year":2007,"keywords":"air/sea/express/road; customs; offices FRA & Xiamen"},
+"wexholland.com":{"id":"5a9e2f21a6da98d9977a5bbf","employees":36,"city":"Schoonhoven","founded_year":1992,"keywords":"road/sea/air forwarding; LCL/FCL/RoRo; GLA network","air":1,"ocean":1,"note":"Apollo: GLA network member"},
+"rosebrock.com":{"id":"5569b2187369642531a67b00","employees":30,"city":"Bremen","keywords":"air & sea freight; project logistics; removals"},
+"powercargo.co.uk":{"id":"629f28e706059a00a38c2f41","employees":13,"city":"London","founded_year":2018,"keywords":"sea/air/road/rail; customs; SME focus","air":1,"ocean":1},
+"allwaysinternational.co.uk":{"id":"67302030cd1c1f00017e8305","employees":28,"city":"Wickford","founded_year":1998,"keywords":"air/sea/road/rail forwarding"},
+"acito-logistics.eu":{"id":"55f7551ff3e5bb166b001328","employees":35,"city":"Weil am Rhein","founded_year":2014,"keywords":"road/air/ocean; customs; contract logistics","air":1,"ocean":1,"note":"Apollo description cites ~100 employees (upper size limit)"},
+"daygard.com":{"id":"63dd70f426120100a31c8b6c","employees":32,"city":"West Thurrock","founded_year":2003,"keywords":"independent NVOCC; sea & air; customs","air":1}},
+"credit_log":[{"ts":"2026-11-27T04:40","action":"organizations_bulk_enrich batch 07 (10 domains)","credits_used":10,"balance_after":129,"note":"10/10 matched"}]}
